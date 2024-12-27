@@ -1,5 +1,5 @@
 # Projects
-## My First project is about "Univariate Analysis via power bi dashboard" utilizing diverse visualization techniques to communicate insights effectively.  
+## 1. My First project is about "Univariate Analysis via power bi dashboard" utilizing diverse visualization techniques to communicate insights effectively.  
 
 🔍 Key Highlights:-
 • Box Plot: Displays height distribution and outliers.  
