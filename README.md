@@ -33,8 +33,8 @@ Lets's invite the artists who have written the most rock music in our dataset.Fi
 ### Q3:
 Return all track names that have a song length longer than the avg song length. Return name & milliseconds for each track. Put longer songs first.
 
-###1 ![Q 1](https://github.com/user-attachments/assets/3ad6037e-dd44-44e1-b2a7-cce3e40b92aa)
+![Q 1](https://github.com/user-attachments/assets/3ad6037e-dd44-44e1-b2a7-cce3e40b92aa)
 
-###2 ![Q 2](https://github.com/user-attachments/assets/585aea7a-d491-4af5-8d3b-f84501de5410)
+![Q 2](https://github.com/user-attachments/assets/585aea7a-d491-4af5-8d3b-f84501de5410)
 
-###3 ![Q 3](https://github.com/user-attachments/assets/30a42044-9297-43dc-86d8-bce002be7074)
+![Q 3](https://github.com/user-attachments/assets/30a42044-9297-43dc-86d8-bce002be7074)
