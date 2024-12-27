@@ -1,5 +1,5 @@
-# Projects
-## 1. Univariate Analysis via power bi dashboard
+# Projects :)
+## 1. Univariate Analysis via power bi dashboard 
 
 My First project is about "Univariate Analysis using power bi dashboard" utilizing diverse visualization techniques to communicate insights effectively. Which improved decision-making efficiency by 30%.
 
@@ -18,6 +18,8 @@ My First project is about "Univariate Analysis using power bi dashboard" utilizi
 This project helped me solidify my understanding of data visualization and analytics. I Would love to hear your feedback or suggestions for improving this dashboard.
 
 ![Visualization  JPEG](https://github.com/user-attachments/assets/8431bace-c84c-48b9-aaee-06639d1a9a47)
+
+
 
 
 
