@@ -1,16 +1,16 @@
 # Projects
 ## 1. Univariate Analysis via power bi dashboard
 
-My First project is "Univariate Analysis via power bi dashboard" utilizing diverse visualization techniques to communicate insights effectively. Which improved decision-making efficiency by 30%.
+My First project is about "Univariate Analysis using power bi dashboard" utilizing diverse visualization techniques to communicate insights effectively. Which improved decision-making efficiency by 30%.
 
-🔍 Key Highlights:-
+### 🔍 Key Highlights:-
 • Box Plot: Displays height distribution and outliers.  
 • Histogram: Visualizes frequency distribution of heights.  
 • Donut Chart: Breakdown of individual contributions to the dataset.  
 • Stacked Bar Chart: Clear comparison of heights by name.  
 • Dataset Summary: Presents total participants and mean height.  
 
-🛠 Skills Utilized :-
+### 🛠 Skills Utilized :-
 • Data modelling & cleaning,
 • Visualization design in Power BI,
 • Insightful communication for decision making.
