@@ -25,7 +25,7 @@ This project helped me solidify my understanding of data visualization and analy
 
 ## 2. Digital music store analysis via SQL (PG SQL)
 
-This project is based on analyze the music playlist database with the help os SQL and help the store understand its bussiness growth by answering the questions.
+This project is based on analyze the music playlist database with the help of SQL and help the store understand its bussiness growth by answering the questions.
 To do it first I collected the data as a zip file then unzipped it, consist of 12 files. After that import it into postgre SQL. After that I wrangled the data for analysis and then start to solve the questions. It saved time by 40% and improved decision-making by 25%.
 
 ### Q1:
