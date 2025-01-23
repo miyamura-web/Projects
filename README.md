@@ -40,3 +40,29 @@ Return all track names that have a song length longer than the avg song length. 
 ![Q 2](https://github.com/user-attachments/assets/585aea7a-d491-4af5-8d3b-f84501de5410)
 
 ![Q 3](https://github.com/user-attachments/assets/30a42044-9297-43dc-86d8-bce002be7074)
+
+
+
+
+
+## 3. Crypto Trend Analysis 2024 via Python
+I chose this topic as a stepping stone for my upcoming research paper on blockchain technology, which has always fascinated me for its potential to revolutionize industries beyond finance. This project explores the evolving trends in the cryptocurrency market, providing valuable insights into volatility, price movements, and growth rate. Through this project, I delved deeper into data analytics, enhancing my Python skills while uncovering meaningful insights about the crypto ecosystem. 
+
+### 🚀 What I Did:
+✅ Collected and cleaned historical economic data using Python (pandas, NumPy).
+✅ Visualized key trends with matplotlib and seaborn to tell a compelling story.
+✅ Conducted statistical analysis to identify correlations and trends.
+
+### 💡 Key highlights:
+1. Data collection and preprocessing from live crypto APIs,
+2. Trend analysis and visualizations like correlation and scatter plot,
+3. Insights into market volatility and growth rate.
+
+### 📊 Tools I Used: Python, pandas, NumPy, matplotlib, seaborn
+
+There is many more things to analyse from this data. Well this project is not just about coding—it was about combining my passion for data and economics to derive meaningful insights. I'd love to hear your thoughts or connect with others passionate about data and research!
+
+
+
+
+   
