@@ -26,11 +26,11 @@ This project helped me solidify my understanding of data visualization and analy
 This project is based on analyze the music playlist database with the help of SQL and help the store understand its bussiness growth by answering the questions.
 To do it first I collected the data as a zip file then unzipped it, consist of 12 files. After that import it into postgre SQL. After that I wrangled the data for analysis and then start to solve the questions. It saved time by 40% and improved decision-making by 25%.
 
-### Q1:
+#### Q1:
 Write query to return email, first name, last name and genre of all rock music listeners. Return your list ordered alphabetically by email starting with A.
-### Q2: 
+#### Q2: 
 Lets's invite the artists who have written the most rock music in our dataset.Find artist name and total track count of top 10 rock bands.
-### Q3:
+#### Q3:
 Return all track names that have a song length longer than the avg song length. Return name & milliseconds for each track. Put longer songs first.
 
 
