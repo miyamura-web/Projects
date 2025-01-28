@@ -55,6 +55,19 @@ I chose this topic as a stepping stone for my upcoming research paper on blockch
 There is many more things to analyse from this data. Well this project is not just about coding—it was about combining my passion for data and economics to derive meaningful insights. I'd love to hear your thoughts or connect with others passionate about data and research!
 
 
+## 4.  The Great Depression (1929) - Power BI Data Analysis & Visualization
+
+Developed an interactive Power BI dashboard analyzing economic trends (GDP, inflation, unemployment, industrial production, and bank failures) from 1919–1940. Provided historical insights and forecasting applications for modern economic crises. Integrated state-wise bank failure analysis and financial metrics for comprehensive reporting. Data are collected from FRED, BEA, Census Bureau, NBER etc
+
+### This dashboard highlights:
+📉 The sharp decline in GDP and industrial production, alongside rising unemployment.
+🏦 The devastating impact of bank failures across the United States.
+📊 Trends in inflation and the infamous stock market crash of the era.
+🗺️ A geographic view of the states most affected by the economic downturn.
+
+The reason behind my analysis was to predict if a similar crisis occurs in the future how long it will take that economy to recover by comparing with the pace of recovery this depression. Also can predict how inflation or deflation might behave during and after the crisis etc.
+
+
 
 
    
