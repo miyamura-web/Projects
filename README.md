@@ -13,7 +13,23 @@ Lets's invite the artists who have written the most rock music in our dataset.Fi
 Return all track names that have a song length longer than the avg song length. Return name & milliseconds for each track. Put longer songs first.
 
 
-## 2. Univariate Analysis via power bi dashboard 
+## 2.  The Great Depression (1929) - Power BI Data Analysis & Visualization
+
+Developed an interactive Power BI dashboard analyzing economic trends (GDP, inflation, unemployment, industrial production, and bank failures) from 1919–1940. Provided historical insights and forecasting applications for modern economic crises. Integrated state-wise bank failure analysis and financial metrics for comprehensive reporting. Data are collected from FRED, BEA, Census Bureau, NBER etc.
+
+![Image](https://github.com/user-attachments/assets/705d4b04-3331-43a9-8ada-f53cf905d50d)
+
+### This dashboard highlights:
+📉 The sharp decline in GDP and industrial production, alongside rising unemployment.
+🏦 The devastating impact of bank failures across the United States.
+📊 Trends in inflation and the infamous stock market crash of the era.
+🗺️ A geographic view of the states most affected by the economic downturn.
+
+The reason behind my analysis was to predict if a similar crisis occurs in the future how long it will take that economy to recover by comparing with the pace of recovery this depression. Also can predict how inflation or deflation might behave during and after the crisis etc.
+
+
+
+## 3. Univariate Analysis via power bi dashboard 
 
 My First project is about "Univariate Analysis using power bi dashboard" utilizing diverse visualization techniques to communicate insights effectively. Which improved decision-making efficiency by 30%.
 
@@ -33,18 +49,6 @@ This project helped me solidify my understanding of data visualization and analy
 
 
 
-
-## 3.  The Great Depression (1929) - Power BI Data Analysis & Visualization
-
-Developed an interactive Power BI dashboard analyzing economic trends (GDP, inflation, unemployment, industrial production, and bank failures) from 1919–1940. Provided historical insights and forecasting applications for modern economic crises. Integrated state-wise bank failure analysis and financial metrics for comprehensive reporting. Data are collected from FRED, BEA, Census Bureau, NBER etc
-
-### This dashboard highlights:
-📉 The sharp decline in GDP and industrial production, alongside rising unemployment.
-🏦 The devastating impact of bank failures across the United States.
-📊 Trends in inflation and the infamous stock market crash of the era.
-🗺️ A geographic view of the states most affected by the economic downturn.
-
-The reason behind my analysis was to predict if a similar crisis occurs in the future how long it will take that economy to recover by comparing with the pace of recovery this depression. Also can predict how inflation or deflation might behave during and after the crisis etc.
 
 
 
