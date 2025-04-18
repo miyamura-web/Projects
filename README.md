@@ -33,6 +33,8 @@ The reason behind my analysis was to predict if a similar crisis occurs in the f
 
 My First project is about "Univariate Analysis using power bi dashboard" utilizing diverse visualization techniques to communicate insights effectively. Which improved decision-making efficiency by 30%.
 
+![Image](https://github.com/user-attachments/assets/0383687e-316a-4200-9b2b-7944e7c3a72d)
+
  ### 🔍 Key Highlights:- 
 • Box Plot: Displays height distribution and outliers.  
 • Histogram: Visualizes frequency distribution of heights.  
